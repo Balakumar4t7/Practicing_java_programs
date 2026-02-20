@@ -1,6 +1,6 @@
 About This Repository
 
-This repository contains my daily Java practice programs created to strengthen core programming concepts and improve problem-solving skills for placements.
+This repository contains my daily Java practice programs created to strengthen core programming concepts and improve problem-solving skills.
 
 All programs are written and tested using IntelliJ IDEA and organized in a structured manner for clarity and consistency.
 
