@@ -16,7 +16,6 @@ public class CountVowelsConsonents {
                 }
             }
         }
-
         System.out.println("vowels " + v);
         System.out.println("Digits " + d);
         System.out.println("Symbols " + sy);
