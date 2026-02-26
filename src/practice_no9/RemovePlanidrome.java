@@ -1,7 +1,5 @@
 package practice_no9;
-
 //program to print the String without an palindrom in it
-
 public class RemovePlanidrome {
     public static void main(String[] args) {
 
@@ -15,10 +13,8 @@ public class RemovePlanidrome {
             if(pal(val)) s5=s5 +" "+val;
             rev = "";
         }
-
         System.out.println(s5);
     }
-
     public static boolean pal(String val) {
         String rev = "";
         for (int j = val.length() - 1; j >= 0; j--) {
